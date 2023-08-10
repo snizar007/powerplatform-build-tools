@@ -5,6 +5,7 @@ queries:
 
 paths:
   - src
+
 paths-ignore:
   - bin
   - out
@@ -14,3 +15,4 @@ paths-ignore:
   - test
   - docs
   - examples
+  - src/experimental

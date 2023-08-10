@@ -20,6 +20,7 @@ npm-debug.log*
 *.suo
 *.user
 *.userosscache
+appSettings.[Dd]ebug.json
 
 # Build results
 [Dd]ebug/
